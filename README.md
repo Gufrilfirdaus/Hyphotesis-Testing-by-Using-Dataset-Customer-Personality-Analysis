@@ -40,4 +40,24 @@ Place
 - NumStorePurchases: Number of purchases made directly in stores
 - NumWebVisitsMonth: Number of visits to company’s website in the last month
 
+Project Description :
+This project involves hypothesis testing to analyze and validate assumptions about a dataset containing demographic and income information. The analysis uses descriptive statistics, data visualization, and statistical testing to draw meaningful insights.
+
+Key Analyses and Insights:
+Descriptive Statistics:
+- Calculated central tendency measures (mean: 52,237, median, and mode).
+- Measured data spread (variance, standard deviation, min, and max values).
+
+Data Visualization: 
+- Histogram: Revealed a right-skewed income distribution, where the mean is higher than the median.
+- Boxplot: Identified outliers, indicating anomalies in income data.
+
+Insights:
+- The majority of individuals earn close to the average income.
+- Outliers suggest the presence of extreme income values that may need further investigation.
+
+Hypothesis Testing:
+- Used t-tests, z-tests, and ANOVA to compare income distributions across groups (e.g., gender, education level).
+- Results validated significant differences between certain groups, providing actionable insights.
+
   
