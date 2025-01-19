@@ -40,7 +40,10 @@ Place
 - NumStorePurchases: Number of purchases made directly in stores
 - NumWebVisitsMonth: Number of visits to company’s website in the last month
 
+
+
 Project Description :
+
 This project involves hypothesis testing to analyze and validate assumptions about a dataset containing demographic and income information. The analysis uses descriptive statistics, data visualization, and statistical testing to draw meaningful insights.
 
 Key Analyses and Insights:
